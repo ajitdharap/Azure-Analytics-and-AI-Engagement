@@ -73,7 +73,7 @@ Start-Sleep -s 10
 				-replace '#storageAccountName#', $storageAccountName`
 				-replace '#storageKey#', $storageKey`
 
-			} | Set-Content -Path artifacts/search/skillset.json
+			} | Set-Content -Path artifacts/search/search_skillset.json
 
 
 # Creat Skillset
