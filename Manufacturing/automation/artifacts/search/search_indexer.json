@@ -3,7 +3,7 @@
   "description": "",
   "dataSourceName": "mfg-dtstore",
   "skillsetName": null,
-  "targetIndexName": "osha-final",
+  "targetIndexName": "",
   "disabled": null,
   "schedule": null,
   "parameters": {
