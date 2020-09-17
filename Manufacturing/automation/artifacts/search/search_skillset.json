@@ -307,7 +307,7 @@
     "key": "#destinationkey#"
   },
   "knowledgeStore": {
-    "storageConnectionString": "DefaultEndpointsProtocol=https;AccountName=#storageAccountName#;AccountKey=#storageKey#==;EndpointSuffix=core.windows.net",
+    "storageConnectionString": "DefaultEndpointsProtocol=https;AccountName=#storageAccountName#;AccountKey=#storageKey#;EndpointSuffix=core.windows.net",
     "projections": [
       {
         "tables": [
